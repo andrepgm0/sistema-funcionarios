@@ -80,7 +80,7 @@ Na classe `Conexao.java`, configure as informações do seu banco de dados.
 Exemplo:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/funcionarios";
+String url = "jdbc:mysql://localhost:3306/funcionario_db";
 String usuario = "root";
 String senha = "SUA_SENHA";
 ```
